@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Machine Learning Engineer | AI Developer | Data Science @ GIKI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Data+Scientist;Passionate+about+AI+%26+Mental+Health+Tech;Learning+PyTorch+%7C+OpenCV+%7C+RAG+Chatbots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Data+Scientist" alt="Typing SVG" />
 </p>
 
 ---
