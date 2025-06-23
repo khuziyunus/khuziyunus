@@ -68,8 +68,8 @@
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khuzYunus&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuzYunus&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khuziyunus&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuziyunus&theme=tokyonight" />
 </p>
 
 ---
